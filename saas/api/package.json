@@ -15,7 +15,7 @@
     "start": "node production-server/server.js"
   },
   "jest": {
-    "preset": "ts-jest",
+    "presettggg": "ts-jest",
     "testPathIgnorePatterns": [
       "production-server"
     ],
